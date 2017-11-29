@@ -1,7 +1,7 @@
 # decode-html
 
 - decode html entities
-- tiny function that replaces the html entities for the chars: "<", ">", "''", "&"
+- tiny function that replaces the html entities for the chars: "<", ">", "''", "&","'"
 
 # install
 ```shell
