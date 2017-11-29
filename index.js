@@ -6,7 +6,9 @@ var entities = {
   'lt': '<',
   'gt': '>',
   'quot': '"',
-  'nbsp': '\xa0'
+  'nbsp': '\xa0',
+  '&#8216;':'‘',
+  '&#8217;':'’'
 };
 var entityPattern = /&([a-z]+);/ig;
 
